@@ -9,4 +9,4 @@ Imput:
 
 Hidden:
 
-<img src="https://github.com/norikaisa/DeepEndo/blob/master/Figure%202.png" width="450" height="150" alt="图片加载失败时，显示这段字"/>
+<img src="https://github.com/norikaisa/DeepEndo/blob/master/Figure%202.png" width="950" height="150" alt="图片加载失败时，显示这段字"/>
